@@ -1,0 +1,76 @@
+[
+  {
+    "schema_version": "3.0.2",
+    "study_internal_id": "MELIDOS_TUM_2025",
+    "study_title": "Personal light exposure dataset for Munich, Germany",
+    "study_ethics": "Medical Ethics Committee of the Technical University of Munich (approval 2023-115-S-KK)",
+    "study_short_description": "MeLiDos field-study data collected by the Technical University of Munich in Munich, Germany.",
+    "study_sample": "Ten participants were enrolled and included from the MeLiDos TUM field site.",
+    "study_setting": "Field study",
+    "study_geographical_location": "Munich, Germany, city/urban",
+    "study_contributors": [
+      {
+        "contributor_full_name": "Manuel Spitschan",
+        "contributor_roles": [
+          "Conceptualization",
+          "Methodology",
+          "Project administration",
+          "Software",
+          "Writing – original draft",
+          "Writing – review & editing"
+        ],
+        "contributor_email": "manuel.spitschan@tum.de",
+        "contributor_orcid": "https://orcid.org/0000-0002-8572-9268",
+        "contributor_institution": {
+          "contributor_institution_name": "Technical University of Munich",
+          "contributor_institution_city": "Munich",
+          "contributor_institution_country": "Germany"
+        }
+      },
+      {
+        "contributor_full_name": "Sarina Hilden",
+        "contributor_roles": [
+          "Investigation"
+        ],
+        "contributor_email": "ge42god@mytum.de",
+        "contributor_institution": {
+          "contributor_institution_name": "Technical University of Munich",
+          "contributor_institution_city": "Munich",
+          "contributor_institution_country": "Germany"
+        }
+      },
+      {
+        "contributor_full_name": "Suyoun Lee",
+        "contributor_roles": [
+          "Investigation"
+        ],
+        "contributor_institution": {
+          "contributor_institution_name": "Technical University of Munich",
+          "contributor_institution_city": "Munich",
+          "contributor_institution_country": "Germany"
+        }
+      }
+    ],
+    "study_datasets": [
+      "MELIDOS_TUM_S001",
+      "MELIDOS_TUM_S002",
+      "MELIDOS_TUM_S003",
+      "MELIDOS_TUM_S004",
+      "MELIDOS_TUM_S005",
+      "MELIDOS_TUM_S006",
+      "MELIDOS_TUM_S007",
+      "MELIDOS_TUM_S008",
+      "MELIDOS_TUM_S009",
+      "MELIDOS_TUM_S010"
+    ],
+    "study_type": "field study",
+    "study_keywords": [
+      "light exposure",
+      "circadian",
+      "wearable sensor",
+      "MeLiDos",
+      "Munich",
+      "Germany"
+    ]
+  }
+]

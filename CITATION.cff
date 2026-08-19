@@ -1,0 +1,60 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Personal light exposure dataset for Munich, Germany'
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Sarina
+    family-names: Hilden
+    email: ge42god@mytum.de
+    affiliation: >-
+      Technical University of Munich, Munich, Germany
+  - given-names: Suyoun
+    family-names: Lee
+    affiliation: >-
+      Technical University of Munich, Munich, Germany
+  - given-names: Johannes
+    family-names: Zauner
+    email: johannes.zauner@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics
+    orcid: 'https://orcid.org/0000-0003-2171-4566'
+  - given-names: Manuel
+    family-names: Spitschan
+    email: manuel.spitschan@tum.de
+    affiliation: >-
+      Technical University of Munich; Max Planck Institute
+      for Biological Cybernetics; TUM Institute for Advanced
+      Study (TUM-IAS)
+    orcid: 'https://orcid.org/0000-0002-8572-9268'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17337841
+    description: Zenodo archive (V1.0.1)
+  - type: doi
+    value: 10.5281/zenodo.16893901
+    description: Zenodo Archive (latest version)
+repository-code: 'https://github.com/MeLiDosProject/HildenEtAl_Dataset_2025'
+url: 'https://www.melidos.eu'
+abstract: >-
+  This repository contains the comprehensive dataset for the
+  MeLiDos field study site of Munich, Germany. Data were collected 
+  by the Technical University of Munich (TUM)  and are further processed 
+  and analysed by the Translational Sensory & Circadian Neuroscience Unit
+  (TSCN). A detailed description of the experiment is
+  available in Guidolin et al., 2024.
+keywords:
+  - light exposure
+  - wearable
+  - healthy light
+  - circadian
+  - melanopic
+  - naturalistic setting
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2025-09-24'

@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"TUM_S006","2024-06-24",1,2,1,"Commuting to the university by bike",70,660,1,"2024-06-25 00:08:00","2024-06-25 00:10:08","Commuting to the university by bike"
+"TUM_S006","2024-06-25",1,2,1,"commuting to the university by bike",90,420,1,"2024-06-25 23:48:47","2024-06-25 23:50:44","commuting to the university by bike"
+"TUM_S006","2024-06-26",1,2,3,"commuting to the university by bike, participating in a dance class",50,630,1,"2024-06-26 23:32:28","2024-06-26 23:34:06","commuting to the university by bike, participating in a dance class"
+"TUM_S006","2024-06-27",1,1,3,"cycling to the sports campus, swimming",60,720,0,"2024-06-28 01:18:54","2024-06-28 01:20:46","cycling to the sports campus, swimming"
+"TUM_S006","2024-06-28",1,2,3,"riding to the university by bike, strength workout indoors",80,720,1,"2024-06-29 01:38:22","2024-06-29 01:39:46","cycling to the university, indoor strength workout"
+"TUM_S006","2024-06-29",1,2,3,"riding my bike, workout routine indoors",40,500,1,"2024-06-30 01:44:50","2024-06-30 01:45:57","riding my bike, workout routine indoors"
+"TUM_S006","2024-06-30",1,2,2,"indoor workout",20,600,1,"2024-06-30 23:50:29","2024-06-30 23:51:26","indoor workout"

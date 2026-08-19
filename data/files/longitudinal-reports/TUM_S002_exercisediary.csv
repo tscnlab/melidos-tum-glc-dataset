@@ -1,0 +1,8 @@
+"Id","Date","instructions","intensity","location","type","commute","sedentary","light_glasses","startdate_3","enddate_3","type_english"
+"TUM_S002","2024-05-27",1,3,1,"I just walked 2-4 km",20,120,1,"2024-05-28 00:58:14","2024-05-28 00:59:14","Walking (2-4 km)"
+"TUM_S002","2024-05-28",1,3,1,"walking",30,300,1,"2024-05-29 01:24:16","2024-05-29 01:25:05","walking"
+"TUM_S002","2024-05-29",1,1,2,"resistance training",15,480,0,"2024-05-30 00:17:38","2024-05-30 00:18:47","resistance training"
+"TUM_S002","2024-05-30",1,2,1,"walking",30,480,1,"2024-05-30 22:59:13","2024-05-30 22:59:41","walking"
+"TUM_S002","2024-05-31",1,3,2,"I walked a little",30,500,1,"2024-06-01 00:40:07","2024-06-01 00:40:32","I walked a little"
+"TUM_S002","2024-06-01",1,3,1,"walking",30,500,0,"2024-06-02 11:53:58","2024-06-02 11:54:17","walking"
+"TUM_S002","2024-06-02",1,3,1,"I played a few shots of basketball and walked around",60,300,0,"2024-06-02 20:03:06","2024-06-02 20:04:06","Played basketball and walked around"
